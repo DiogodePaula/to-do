@@ -1,0 +1,15 @@
+.emptyTaskContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 4rem 1.5rem;
+	line-height: 1.6;
+	color: var(--gray-300);
+}
+.emptyTaskContainer strong {
+	margin-top: 1rem;
+}
+.emptyTaskContainer p {
+	font-weight: 400;
+}
